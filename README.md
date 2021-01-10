@@ -1,3 +1,5 @@
 # Retrato_Lucia
 
-[''pdf final''](Clase_Lucia.pdf)
+[Retrato Lucia](Clase_Lucia.pdf)
+[Pdf final](Clase_Lucia.pdf)
+[Imagen final](Imagen final.JPEG)
