@@ -1,5 +1,5 @@
 # Retrato_Lucia
 
-[Retrato Lucia](Clase_Lucia.pdf)
+[Retrato Lucia](Lucia.pde)
 [Pdf final](Clase_Lucia.pdf)
 [Imagen final](Imagen final.JPEG)
